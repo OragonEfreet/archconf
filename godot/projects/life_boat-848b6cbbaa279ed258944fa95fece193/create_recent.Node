@@ -1,0 +1,11 @@
+AnimationTree
+AnimationPlayer
+CollisionShape2D
+Sprite
+Timer
+YSort
+TextureRect
+Area2D
+Node
+Line2D
+KinematicBody2D
