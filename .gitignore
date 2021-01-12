@@ -5,3 +5,12 @@ pulse/
 xfce4
 dconf/
 BraveSoftware/
+
+
+# These have bee added from a fresh install of Ubuntu
+gnome-initial-setup-done
+evolution/
+gtk-3.0/
+ibus/
+user-dirs.*
+
