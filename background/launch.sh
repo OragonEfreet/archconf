@@ -1,4 +1,5 @@
 #!/bin/bash
 
-feh --bg-scale /home/oragon/pictures/walls/wall_1.jpeg
+feh --bg-scale ~/.config/background/background.jpg
+
 
