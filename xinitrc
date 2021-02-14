@@ -50,6 +50,7 @@ fi
 
 setxkbmap fr &
 $HOME/.config/xrandr/display.sh
+$HOME/.config/background/launch.sh
 xsetroot -cursor_name left_ptr
 picom -f &
 exec bspwm
