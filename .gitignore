@@ -5,6 +5,8 @@ pulse/
 xfce4
 dconf/
 BraveSoftware/
+vlc/
+
 
 
 # These have bee added from a fresh install of Ubuntu
@@ -13,4 +15,6 @@ evolution/
 gtk-3.0/
 ibus/
 user-dirs.*
+
+QtProject.conf
 
